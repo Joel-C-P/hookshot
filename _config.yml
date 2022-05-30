@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "hookshot"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, CTF player<br>HackTheBox ATeam"
   location         : "Canada"
@@ -117,7 +117,7 @@ author:
   github           : "slemire"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : "hookshot"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
